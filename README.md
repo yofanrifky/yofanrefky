@@ -84,14 +84,6 @@ Berbekal pengalaman kepemimpinan sebagai **Ketua Pramuka (Pradana)**, saya terbi
 ---
 
 ### 📊 GitHub Profile Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[yofan rifky]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[yofan rifky]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[yofanrifky]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
