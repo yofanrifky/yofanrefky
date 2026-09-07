@@ -3,78 +3,107 @@ My Github Profile
 
 <div align="center">
 
-  # 🚀 Hi there, I'm [Nama Anda]!
-  ### 💻 Software Engineering Student | Aspiring Developer
-
+  # 👨‍💻 Muchamad Yofan Rifky Herfanda
+  ### 🎓 Software Engineering Student at SMK Negeri 1 Kepanjen
+  
   <p align="center">
-    <i>"Passionate about building clean code, learning new technologies, and solving real-world problems."</i>
+    <b>Aspiring Software Engineer & Former Scouting Leader</b><br>
+    <i>Disiplin • Komunikatif • Problem Solver • Berdedikasi Tinggi</i>
   </p>
 
-  <!-- Badges Kontak & Socials -->
-  <a href="https://linkedin.com/in/[username-linkedin]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[email-anda@gmail.com]">
+  <!-- Interactive Badges -->
+  <a href="mailto:yofanrefki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://[portfolio-website-anda.com]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://wa.me/6282140870124">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Location-Jawa_Timur-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
 
 </div>
 
----
-
-### 💫 About Me
-
-* 🏫 Siswa Rekayasa Perangkat Lunak di **SMKN 1 Kepanjen**.
-* 🔭 Saat ini sedang fokus mengembangkan proyek **[Nama Proyek Utama / Web / App]**.
-* 🌱 Sedang mendalami **[Framework/Bahasa yang dipelajari, misal: React / Laravel / Flutter]**.
-* 🎯 Tujuan Karir: Menjadi **[Peran Impian, misal: Full-Stack Developer / Mobile Developer]**.
-* 💬 Tanyakan saya tentang **Web Development, Basic Programming, atau UI/UX Design**.
+<br />
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🌟 Ringkasan Profil
 
-**Languages & Frameworks**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** dari **SMKN 1 Kepanjen** yang disiplin, komunikatif, dan berdedikasi tinggi. Memiliki dasar yang kuat dalam pengembangan **Web & Mobile** (*Front-End* & *Back-End*), manajemen basis data, serta pemrosesan dokumen dan desain. 
 
-**Software & Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+Berbekal pengalaman kepemimpinan sebagai **Ketua Pramuka (Pradana)**, saya terbiasa mengasah kemampuan komunikasi, *problem solving*, dan kerja sama tim. Siap berkontribusi secara optimal dalam lingkungan profesional maupun magang industri.
 
 ---
 
-### 📌 Featured Projects
+### 🎓 Pendidikan
 
-| Project Name | Description | Tech Stack | Link |
+| Instansi | Jurusan | Periode | Fokus Pelajaran |
 | :--- | :--- | :--- | :--- |
-| **[Proyek 1]** | Aplikasi manajemen [fungsi] berbasis web. | Laravel, Tailwind | [Demo/Repo](https://github.com) |
-| **[Proyek 2]** | Desain UI/UX & Landing page untuk [kebutuhan]. | HTML, CSS, JS | [Demo/Repo](https://github.com) |
+| **SMK Negeri 1 Kepanjen** | Rekayasa Perangkat Lunak (RPL) | Agt 2024 – Sekarang *(Est. Lulus 2027)* | Pemrograman Web & Perangkat Bergerak, Basis Data, Pemrograman Berorientasi Objek (PBO) |
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Keahlian & Teknologi (Skills)
+
+#### 💻 Programming & Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 📱 Mobile Development & Database Management
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### ⚙️ Tools, Software & Productivity
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+#### 🤝 Interpersonal & Soft Skills
+> 🔹 **Leadership & Public Speaking** — Berpengalaman memimpin organisasi & berbicara di depan umum.  
+> 🔹 **Problem Solving & Communication** — Mampu menganalisis masalah dan mengomunikasikan solusi secara jelas.  
+> 🔹 **Teamwork & Adaptability** — Responsif dan dapat bekerja sama dalam dinamika tim.
+
+---
+
+### ⚜️ Pengalaman Organisasi & Kepemimpinan
+
+#### **Ketua Ambalan / Pradana** — Pramuka SMKN 1 Kepanjen
+*📅 Periode: 2025 – 2026*
+
+- 📌 **Kepemimpinan & Koordinasi**: Memimpin dan mengoordinasikan seluruh program kerja serta agenda rutin pramuka sekolah.
+- 📌 **Komunikasi & Public Speaking**: Melatih kemampuan berbicara di depan umum dan komunikasi efektif saat mengarahkan anggota maupun memimpin rapat.
+- 📌 **Manajemen & Problem Solving**: Mengasah penyelesaian masalah dan manajemen konflik saat mengelola dinamika kelompok serta kegiatan lapangan.
+- 📌 **Administrasi & Kerjasama**: Bekerja sama erat dengan tim pembina dan pihak sekolah dalam penyusunan agenda kegiatan dan administrasi.
+
+---
+
+### 📊 GitHub Profile Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username-github-anda]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-github-anda]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[yofanrifky]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[yofanrifky]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-github-anda]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[yofanrifky]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by [Nama Anda]</sub>
+  <p><i>"Discipline is the bridge between goals and accomplishment."</i></p>
+  <sub>Designed with ❤️ by <b>Muchamad Yofan Rifky Herfanda</b></sub>
+</div>
+  <sub>Designed with ❤️ by [Yofan]</sub>
 </div>
