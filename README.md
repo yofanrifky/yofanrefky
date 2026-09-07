@@ -1,6 +1,3 @@
-# yofanrefky
-My Github Profile
-
 <div align="center">
 
   # 👨‍💻 Muchamad Yofan Rifky Herfanda
